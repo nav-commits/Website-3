@@ -1,0 +1,246 @@
+/* code for index.html    */
+.para{
+    color: white;
+    margin-top: 270px;
+    padding: 10px;
+    text-indent: 50px;
+    font-family: Cambria,
+    Cochin,
+    Georgia,
+    Times,
+    'Times New Roman',
+    serif;
+    font-size: large;
+    width: 1200px;
+    margin-left: 70px;
+    padding-right: 20px;
+    text-align: center;
+
+}
+
+.nav-item{
+    padding-right: 10px;
+}
+
+.navbar-brand{
+    padding-left: 5px;
+}
+
+body{
+  background-image:url(https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+.img2{
+float: right;
+padding-right: 10px;
+border-radius: 8px;
+}
+
+.blue{
+    color:white;
+}
+
+.btn-dark{
+margin-left: 530px;
+height: 40px;
+width:120px;
+margin-right: 20px;
+margin-top: 10px;
+}
+
+.btn-secondary {
+    height: 40px;
+    width:120px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.wonderful{
+    color: white;
+    font: bold;
+    text-align: center;
+    padding-top: 75px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.web{
+    text-align: center;
+    color: white;
+    font-family: Cambria,
+    Cochin,
+    Georgia,
+    Times,
+    'Times New Roman',
+    serif;
+    padding-top: 5px;
+    
+}
+.img3{
+    height: 50px;
+    width: 100px;
+    padding-left: 30px;
+}
+
+.input{
+    margin-left: 520px;
+    margin-top: 90px;
+    height: 34px;
+}
+
+.btn-info{
+  height: 35px;
+  width:110px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  padding-bottom: 10px;
+  
+  
+}
+
+
+.foot{
+    
+    padding-bottom: 10px;
+    color: white;
+    font-family: Cambria,
+    Cochin,
+    Georgia,
+    Times,
+    'Times New Roman',
+    serif;
+    font-size: large;
+    text-align: center;
+    margin-right: 10px;
+}  
+
+.word{
+    height: 50px;
+    width: 90px;
+}
+
+
+#boxes{
+    margin-top: 20px;
+}
+
+#boxes .box{
+float: left;
+width: 30%;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 30px;
+color: white;
+margin-right: 15px;
+padding :10px;
+
+
+}
+
+.click{
+    margin-left: 550px;
+    margin-top: 40px;
+    width: 60px;
+    color: blue;
+    background-color: black;
+
+}
+    
+
+ .it{
+    float: right;
+    padding-right: 320px;
+    padding-top: 40px;
+    color: white;
+     font-family: Cambria,
+     Cochin,
+     Georgia,
+     Times,
+     'Times New Roman',
+     serif;
+}
+#demo{
+    margin-left: 550px;
+    color: white;
+}
+
+.container-fluid{
+    padding:3%;
+    padding-right: 5%;
+
+}
+
+
+/* below code styles for about.html */
+
+.first{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.par{
+    padding-top: 80px;
+    color: white;
+    padding-left: 40px;
+    padding-right:40px ;
+    text-indent: 50px;
+}
+
+
+
+
+
+/* Media Query for website   */
+@media (max-width:1028 px){
+
+}
+
+.social-icon {
+    padding-top: 2px;
+   margin: 20px 10px;
+    
+}
+
+.white-section {
+margin-left: 550px;
+}
+    
+.white-sec{
+margin-left: 570px;
+}
+
+.white-sect{
+    padding-top: 130px;
+    margin-left: 570px;
+}
+
+.md-form{
+    padding-left: 60px;
+}
+
+.col-md-6{
+padding-right:30px ;
+}
+
+.h1-responsive{
+    padding-top:90px;
+    font: bold;
+}
+
+.btn-primary{
+    margin-left: 900px;
+
+}
+
+.text-center{
+    color: white;
+}
+
+.crazy{
+    padding-top: 35px;
+}
